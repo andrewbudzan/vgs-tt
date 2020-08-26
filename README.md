@@ -12,9 +12,9 @@
     
 
 # Usage
-1. Clone this repo
+1. Clone 'trial' branch from this repo
 
-        https://github.com/andrewbudzan/vgs-tt
+        git clone --single-branch --branch trial https://github.com/andrewbudzan/vgs-tt
 1. Install requirements
 
         pip install requirements.txt
